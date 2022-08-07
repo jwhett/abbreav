@@ -1,0 +1,7 @@
+[secrets]
+# Secrets required for the bot to run.
+token = TOKEN_HERE
+
+[abbr]
+# Abbreviations registered with the bot.
+demo = "this is a demo"
