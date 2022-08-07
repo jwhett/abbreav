@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 "discord.py" = "*"
+black = "*"
+flake8 = "*"
 
 [dev-packages]
 
